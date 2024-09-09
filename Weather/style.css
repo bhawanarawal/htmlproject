@@ -87,4 +87,7 @@ body{
     font-size: 28px;
 
 }
+.weather{
+    display: none;
+}
 
